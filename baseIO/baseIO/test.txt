@@ -1,0 +1,17 @@
+123
+总用量 92
+drwxrwxr-x.  2 dev dev  191 4月   6 20:47 .
+drwxrwxr-x. 10 dev dev  108 4月   3 19:44 ..
+-rw-rw-r--.  1 dev dev   73 4月   4 08:45 difIO.c
+-rwxrwxr-x.  1 dev dev 9064 4月   3 22:26 fp
+-rw-rw-r--.  1 dev dev 1694 4月   3 22:26 fp.c
+-rw-rw-r--.  1 dev dev  139 4月   6 11:10 makefile
+-rwxrwxr-x.  1 dev dev 9216 4月   6 20:45 minishell
+-rw-rw-r--.  1 dev dev 1950 4月   6 20:45 minishell.c
+-rwxrwxr-x.  1 dev dev 8960 4月   3 23:10 op
+-rw-rw-r--.  1 dev dev  843 4月   3 23:10 op.c
+-rwxrwxr-x.  1 dev dev 8760 4月   4 00:22 redir
+-rw-rw-r--.  1 dev dev  299 4月   4 00:22 redir.c
+-rwxrwxr-x.  1 dev dev 8808 4月   4 08:35 stream
+-rw-rw-r--.  1 dev dev  516 4月   6 11:13 stream.c
+-rw-rw-r--.  1 dev dev    4 4月   6 20:49 test.txt
